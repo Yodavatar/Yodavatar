@@ -24,3 +24,5 @@ If you ever need support feel free to contact using:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@17a8cdf0-54fb-45e9-92bc-ada49bd926d7/bb87bcc7-65a1-43bb-9305-5a01133b495c.png" /></a>
 
+[![wakatime](https://wakatime.com/badge/user/17a8cdf0-54fb-45e9-92bc-ada49bd926d7/project/69906eca-46c2-403c-ac59-b5bc18a23dcf.svg)](https://wakatime.com/badge/user/17a8cdf0-54fb-45e9-92bc-ada49bd926d7/project/69906eca-46c2-403c-ac59-b5bc18a23dcf)
+
