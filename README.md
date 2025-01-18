@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 
+<figure><embed src="https://wakatime.com/share/@17a8cdf0-54fb-45e9-92bc-ada49bd926d7/5a8f3029-d305-426b-8a07-9c6fcb001fe1.svg"></embed></figure>
+
 **Yodavatar/Yodavatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
