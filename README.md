@@ -21,5 +21,6 @@ If you ever need support feel free to contact using:
 
 ## Other stats
 
-<figure><embed src="https://wakatime.com/share/@17a8cdf0-54fb-45e9-92bc-ada49bd926d7/5a8f3029-d305-426b-8a07-9c6fcb001fe1.svg"></embed></figure>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@17a8cdf0-54fb-45e9-92bc-ada49bd926d7/bb87bcc7-65a1-43bb-9305-5a01133b495c.png" /></a>
 
