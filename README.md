@@ -21,6 +21,8 @@ If you ever need support feel free to contact using:
 
 ## Other stats
 
+![Want to learn](https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar)
+
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@17a8cdf0-54fb-45e9-92bc-ada49bd926d7/bb87bcc7-65a1-43bb-9305-5a01133b495c.png" /></a>
 
