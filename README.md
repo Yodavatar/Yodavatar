@@ -4,7 +4,6 @@ Wrote many code, which you can see [in the repositories tab](https://github.com/
 
 If you ever need support feel free to contact using:
 - Telegram: @Yodavatar
-- Signal: @yodavatar.01
 - Discord: Soon
 - Email: Soon
 
