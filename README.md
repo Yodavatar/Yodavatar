@@ -4,8 +4,8 @@ Wrote a bunch of stuff, which you can see [in the repositories tab](https://gith
 
 If you ever need support feel free to contact using:
 - Telegram: @Yodavatar
-- Discord: 
-- email: 
+- Discord: Soon
+- Email: Soon
 
 ## Known languages
 
