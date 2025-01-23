@@ -13,14 +13,14 @@ If you ever need support feel free to contact using:
 
 
 ## Used technologies
-![Using](https://skillicons.dev/icons?i=linux,vscode,git,github,docker,vim,cloudflare,selenium,obsidian&perline=10)<br>
+![Using](https://skillicons.dev/icons?i=rider,vscode,git,github,docker,vim,cloudflare,selenium,obsidian&perline=10)<br>
 
 
 ## Need more training
-![Need more training](https://skillicons.dev/icons?i=rust,unity&perline=10)
+![Need more training](https://skillicons.dev/icons?i=unity,&perline=10)
 
 ## Want to learn
-![Want to learn](https://skillicons.dev/icons?i=tauri,swift,ruby,wasm,cpp,qt&perline=10)
+![Want to learn](https://skillicons.dev/icons?i=unreal,cpp,blender,bash&perline=10)
 
 ## Other stats
 
