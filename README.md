@@ -24,19 +24,4 @@ If you ever need support feel free to contact using:
 
 ## Other stats
 
-![Want to learn](https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar)
-
-
-![Want to learn](https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=highcontrast&show_icons=true&count_private=true&custom_title=Yodavatar's%20Stats%20-%20Last%201%20Year'%width="50%">)
-
-
-
-
-<p>
-<img src=https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=highcontrast&show_icons=true&count_private=true&custom_title=Yodavatar's%20Stats%20-%20Last%201%20Year width="50%">
-<img src=https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=tokyonight&langs_count=10&layout=compact width="29%">
-</p>
-<p>
-<img src=https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=tokyonight&langs_count=20&layout=compact max-width="41%">
-</p>
-
+![Stats](https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=highcontrast&show_icons=true&count_private=true&custom_title=Yodavatar%27s%20Stats%20-%20Last%201%20Year)
