@@ -8,10 +8,13 @@ If you ever need support feel free to contact using:
 - email: 
 
 ## Known languages
-![Known languages](https://skillicons.dev/icons?i=java,python,typescript,js,vuejs,svelte,html,css,cs,bash&perline=10)
+
+![Known languages](https://skillicons.dev/icons?i=python,cs,ocaml,php,html,css,js&perline=10)
+
 
 ## Used technologies
-![Using](https://skillicons.dev/icons?i=linux,vscode,idea,github,git,docker,vim,gradle,nginx,cloudflare,vite,vercel,selenium,postgres,sqlite,ps&perline=10)<br>\+ Forge, Fabric, Bukkit (Spigot, Paper), Folia, & some more...
+![Using](https://skillicons.dev/icons?i=linux,vscode,git,github,docker,vim,cloudflare,selenium,obsidian&perline=10)<br>
+
 
 ## Need more training
 ![Need more training](https://skillicons.dev/icons?i=rust,unity&perline=10)
