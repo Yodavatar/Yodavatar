@@ -29,7 +29,7 @@ If you ever need support feel free to contact using:
 
 
 <p>
-<img src=https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=tokyonight&show_icons=true&count_private=true&custom_title=Nixuge's%20Stats%20-%20Last%201%20Year width="50%">
+<img src=https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=tokyonight&show_icons=true&count_private=true&custom_title=Yodavatar's%20Stats%20-%20Last%201%20Year width="50%">
 <img src=https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=tokyonight&langs_count=10&layout=compact width="29%">
 </p>
 <p>
