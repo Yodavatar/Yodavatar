@@ -13,7 +13,7 @@ If you ever need support feel free to contact using:
 
 
 ## Used technologies
-![Using](https://skillicons.dev/icons?i=rider,vscode,git,github,vim,cloudflare,obsidian&perline=10)<br>
+![Using](https://skillicons.dev/icons?i=rider,vscode,git,github,vim,cloudflare,stackoverflow,obsidian&perline=10)<br>
 
 
 ## Need more training
