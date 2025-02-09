@@ -9,7 +9,7 @@ If you ever need support feel free to contact using:
 
 ## Known languages
 
-![Known languages](https://skillicons.dev/icons?i=python,cs,ocaml,php,html,css,js&perline=10)
+![Known languages](https://skillicons.dev/icons?i=python,cs,ocaml,php,octave,html,css,js&perline=10)
 
 
 ## Used technologies
