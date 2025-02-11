@@ -31,4 +31,4 @@ If you ever need support feel free to contact using:
 
 [![Yodavatar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)]
 
-[![Yodavatar's WakaTime stats](https://github-readme-stats-iota-blue-87.vercel.app/api/wakatime?username=yodavatar)
+[](https://github-readme-stats-iota-blue-87.vercel.app/api/wakatime?username=yodavatar)
