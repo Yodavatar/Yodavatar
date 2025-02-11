@@ -29,6 +29,6 @@ If you ever need support feel free to contact using:
 
 ![Stats](https://github-readme-stats-iota-blue-87.vercel.app/api/top-langs/?username=yodavatar&theme=highcontrast&show_icons=true&count_private=true&custom_title=Yodavatar%27s%20Stats%20-%20Last%201%20Year)
 
-[![Yodavatar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Yodavatar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)]
 
 [![Yodavatar's WakaTime stats](https://github-readme-stats-iota-blue-87.vercel.app/api/top-langs/?username=yodavatar&theme=highcontrast&show_icons=true&count_private=true&custom_title=Yodavatar%27s%20Stats%20-%20Last%201%20Year)
