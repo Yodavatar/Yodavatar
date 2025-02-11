@@ -22,6 +22,8 @@ If you ever need support feel free to contact using:
 ## Want to learn
 ![Want to learn](https://skillicons.dev/icons?i=unreal,cpp,blender,bash&perline=10)
 
+[![Yodavatar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Other stats
 
 ![Stats](https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=highcontrast&show_icons=true&count_private=true&custom_title=Yodavatar%27s%20Stats%20-%20Last%201%20Year)
