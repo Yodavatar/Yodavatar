@@ -25,6 +25,6 @@ If you ever need support feel free to contact using:
 
 ## Other stats
 
-![Stats](https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=highcontrast&show_icons=true&count_private=true&custom_title=Yodavatar%27s%20Stats%20-%20Last%201%20Year)
+![Stats](https://github-readme-stats-iota-blue-87.vercel.app/api?username=yodavatar&theme=highcontrast&show_icons=true&count_private=true&layout=compact&custom_title=Yodavatar%27s%20Stats%20-%20Last%201%20Year)
 
 ![Stats](https://github-readme-stats-iota-blue-87.vercel.app/api/wakatime?username=yodavatar&theme=highcontrast&layout=compact&custom_title=Yodavatar%27s%20Stats%20-%20Last%201%20Year)
