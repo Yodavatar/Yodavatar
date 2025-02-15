@@ -1,6 +1,6 @@
 ## Hello
 
-Wrote many code, which you can see [in the repositories tab](https://github.com/Yodavatar?tab=repositories)
+I wrote many code, which you can see [in the repositories tab](https://github.com/Yodavatar?tab=repositories)
 
 If you ever need support feel free to contact using:
 - Telegram: @Yodavatar
