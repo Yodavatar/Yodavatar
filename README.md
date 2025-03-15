@@ -1,13 +1,13 @@
 ## Hello
 
-I wrote many code, which you can see [in the repositories tab](https://github.com/Yodavatar?tab=repositories)
+I wrote many code, which you can see [in the repositories tab](https://github.com/Yodavatar?tab=repositories).
 
 If you ever need support feel free to contact using:
 - Telegram: @Yodavatar
 - Discord: Soon
 - Email: Soon
 
-For fore information you can visited my [website](https://yodavatar.me)
+For fore information you can visited my [website](https://yodavatar.me).
 
 ## Known languages
 
