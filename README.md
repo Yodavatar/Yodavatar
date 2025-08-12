@@ -8,7 +8,6 @@ If you ever need support feel free to contact using:
 - Email: contact@yodavatar.me
 
 For fore information you can visited my [website](https://yodavatar.me).<br>
-Soon, new minecraft project on my modrinth [account](https://modrinth.com/user/Yodavatar).<br>
 
 ## Known languages
 
