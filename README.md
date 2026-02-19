@@ -1,6 +1,7 @@
 ## Hello
 
 I wrote many code, which you can see [in the repositories tab](https://github.com/Yodavatar?tab=repositories).
+I am the main responsible for organizing [Jeupolitique](https://github.com/JeuPolitique/)
 
 If you ever need support feel free to contact using:
 - Telegram: @Yodavatar
