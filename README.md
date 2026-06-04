@@ -4,8 +4,9 @@ I wrote many code, which you can see [in the repositories tab](https://github.co
 I am the main responsible for organizing [Jeupolitique](https://github.com/JeuPolitique/)
 
 If you ever need support feel free to contact using:
-- Telegram: @Yodavatar
-- Discord: @Yodavatar
+- Telegram: [@Yodavatar](https://t.me/yodavatar)
+- Discord: [@Yodavatar](https://discordapp.com/users/794350261019344907)
+- Reddit: [@Yodavatar](https://www.reddit.com/user/Yodavatar/)
 - Email: contact@yodavatar.me
 
 For fore information you can visited my [website](https://yodavatar.me).<br>
