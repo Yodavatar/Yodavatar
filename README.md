@@ -1,29 +1,37 @@
 ## Hello
 
-I wrote many code, which you can see [in the repositories tab](https://github.com/Yodavatar?tab=repositories).<br>
-I am the main responsible for organizing [Jeupolitique](https://github.com/JeuPolitique/)
+I'm Yodavatar.
 
+I enjoy building software, experimenting with new ideas, and contributing to community-driven projects. Most of my repositories are personal projects, prototypes, tools, or archived experiments.
+I'm an independent developer interested in software engineering, open source, AI, and digital communities.
+
+### Current projects
+- [Harmony](https://github.com/Yodavatar/Harmony) : Obsidian plugin for the tasks manager
+- [JeuPolitique](https://github.com/JeuPolitique/) : Non-profit social platform for public debate
+
+Feel free to explore my [repositories](https://github.com/Yodavatar?tab=repositories).
+You'll find active projects, experimental ideas, and a few abandoned adventures along the way.
+
+### Contact
 If you ever need support feel free to contact using:
 - Telegram: [@Yodavatar](https://t.me/yodavatar)
 - Discord: [@Yodavatar](https://discordapp.com/users/794350261019344907)
 - Reddit: [@Yodavatar](https://www.reddit.com/user/Yodavatar/)
 - Email: contact@yodavatar.me
 
-For fore information you can visited my [website](https://yodavatar.me).<br>
-
 ## Known languages
 
-![Known languages](https://skillicons.dev/icons?i=python,cs,ocaml,php,octave,html,css,js&perline=10)
+![Known languages](https://skillicons.dev/icons?i=python,cs,c,rust,ocaml,php,octave,html,css,js&perline=10)
 
 
 ## Used technologies
 ![Using](https://skillicons.dev/icons?i=rider,idea,vscode,git,github,vim,cloudflare,stackoverflow,obsidian,latex&perline=10)<br>
 
 
-## Need more training
+## Learning
 ![Need more training](https://skillicons.dev/icons?i=unity,docker,selenium&perline=10)
 
-## Want to learn
+## Currently Exploring
 ![Want to learn](https://skillicons.dev/icons?i=unreal,cpp,blender,bash&perline=10)
 
 
