@@ -7,6 +7,7 @@ I'm an independent developer interested in software engineering, open source, AI
 
 ### Current projects
 - [Harmony](https://github.com/Yodavatar/Harmony) : Obsidian plugin for the tasks manager
+- [Sylvialpe](https://github.com/Yodavatar/Sylvialpe) : Environment mapping and tool to create it.
 - [JeuPolitique](https://github.com/JeuPolitique/) : Non-profit social platform for public debate
 
 Feel free to explore my [repositories](https://github.com/Yodavatar?tab=repositories).
